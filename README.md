@@ -1,24 +1,27 @@
 # days-of-programming
 
-* Unordered list can use asterisks
+
+* Android
 
 - GitHub
 
-- Flutter
++ Flutter
 
-+ Or pluses
+#### Android
+No | Articles
+--- | ---
+1 | [Getting user location updates in a background service and send data to UI using publisher-subscriber pattern](https://medium.com/@msaudi/android-getting-user-location-updates-in-a-background-service-and-draw-location-updates-on-a-map-225589d28cf6)
+2 | [Test Location Updates With Mock Locations (fake GPS data) in emulators and real devices](https://medium.com/@msaudi/android-test-location-services-and-gps-with-fake-gps-data-mock-locations-in-emulators-or-real-df211de4d891)
 
 
 #### GitHub
-No | Issues
+No | Articles
 --- |--- 
 1 | [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 
-
-
 #### Flutter
-No | Issues
+No | Articles
 --- | ---
 1 | [How to fetch user location in background with Flutter](https://medium.com/@pierre.sabot/how-to-fetch-user-location-in-background-with-flutter-e3494021bdf5)
 2 | [How to run Flutter in the background?](https://medium.com/vrt-digital-studio/flutter-workmanager-81e0cfbd6f6e)
