@@ -12,6 +12,7 @@ No | Articles
 --- | ---
 1 | [Getting user location updates in a background service and send data to UI using publisher-subscriber pattern](https://medium.com/@msaudi/android-getting-user-location-updates-in-a-background-service-and-draw-location-updates-on-a-map-225589d28cf6)
 2 | [Test Location Updates With Mock Locations (fake GPS data) in emulators and real devices](https://medium.com/@msaudi/android-test-location-services-and-gps-with-fake-gps-data-mock-locations-in-emulators-or-real-df211de4d891)
+3 | [Multiple samples showing the best practices in location APIs on Android.](https://github.com/android/location-samples)
 
 
 #### GitHub
