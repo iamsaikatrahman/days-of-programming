@@ -1,5 +1,4 @@
-# 
-programming-articles-for-developers
+# programming-articles-for-developers
 
 
 * Android
