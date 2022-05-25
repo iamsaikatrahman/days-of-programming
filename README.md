@@ -16,6 +16,10 @@ No | Articles
 4 | [How to make a button display on a condition?](https://stackoverflow.com/questions/9994967/android-how-to-make-a-button-display-on-a-condition)
 5 | [How to check if Location Services are enabled?](https://stackoverflow.com/questions/10311834/how-to-check-if-location-services-are-enabled)
 6 | [Android studio isn't opening on Windows](https://stackoverflow.com/questions/16579334/android-studio-isnt-opening-on-windows)
+7 | [Android dynamically populate Drop Down List](https://stackoverflow.com/questions/7818252/android-dynamically-populate-drop-down-list)
+8 | [Cannot lower case button text in android studio](https://stackoverflow.com/questions/24880388/cannot-lower-case-button-text-in-android-studio)
+9 | [Kotlin vs Java: Which is the Best Choice for Android App Development?](https://medium.com/javarevisited/kotlin-vs-java-which-is-the-best-choice-for-android-app-development-7c9fc782d2c9)
+10 | [For App Thinking and UI Design](https://whimsical.com/)
 
 
 #### GitHub
