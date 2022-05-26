@@ -20,6 +20,7 @@ No | Articles
 8 | [Cannot lower case button text in android studio](https://stackoverflow.com/questions/24880388/cannot-lower-case-button-text-in-android-studio)
 9 | [Kotlin vs Java: Which is the Best Choice for Android App Development?](https://medium.com/javarevisited/kotlin-vs-java-which-is-the-best-choice-for-android-app-development-7c9fc782d2c9)
 10 | [For App Thinking and UI Design](https://whimsical.com/)
+11 | [Design Custom EditText - Android Studio Tutorial](https://www.youtube.com/watch?v=BO5iCL7U6Lc&ab_channel=Stevdza-San)
 
 
 #### GitHub
