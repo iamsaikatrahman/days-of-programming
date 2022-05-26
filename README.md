@@ -21,6 +21,7 @@ No | Articles
 9 | [Kotlin vs Java: Which is the Best Choice for Android App Development?](https://medium.com/javarevisited/kotlin-vs-java-which-is-the-best-choice-for-android-app-development-7c9fc782d2c9)
 10 | [For App Thinking and UI Design](https://whimsical.com/)
 11 | [Design Custom EditText - Android Studio Tutorial](https://www.youtube.com/watch?v=BO5iCL7U6Lc&ab_channel=Stevdza-San)
+12 | [How to change the text on the action bar](https://stackoverflow.com/questions/3438276/how-to-change-the-text-on-the-action-bar)
 
 
 #### GitHub
