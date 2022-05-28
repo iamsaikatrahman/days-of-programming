@@ -22,6 +22,7 @@ No | Articles
 10 | [For App Thinking and UI Design](https://whimsical.com/)
 11 | [Design Custom EditText - Android Studio Tutorial](https://www.youtube.com/watch?v=BO5iCL7U6Lc&ab_channel=Stevdza-San)
 12 | [How to change the text on the action bar](https://stackoverflow.com/questions/3438276/how-to-change-the-text-on-the-action-bar)
+13 | [Pop Up Date Picker Android Studio Tutorial](https://www.youtube.com/watch?v=qCoidM98zNk)
 
 
 #### GitHub
