@@ -24,6 +24,7 @@ No | Articles
 12 | [How to change the text on the action bar](https://stackoverflow.com/questions/3438276/how-to-change-the-text-on-the-action-bar)
 13 | [Pop Up Date Picker Android Studio Tutorial](https://www.youtube.com/watch?v=qCoidM98zNk)
 14 | [How to get Spinner selected item value to string?](https://stackoverflow.com/questions/10331854/how-to-get-spinner-selected-item-value-to-string)
+15 | [recyclerView.setAdapter does not accept ArrayAdapter](https://stackoverflow.com/questions/38926071/recyclerview-setadapter-does-not-accept-arrayadapter)
 
 
 #### GitHub
