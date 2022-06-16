@@ -27,6 +27,7 @@ No | Articles
 15 | [recyclerView.setAdapter does not accept ArrayAdapter](https://stackoverflow.com/questions/38926071/recyclerview-setadapter-does-not-accept-arrayadapter)
 16 | [Android - How to achieve setOnClickListener in Kotlin?](https://stackoverflow.com/questions/44301301/android-how-to-achieve-setonclicklistener-in-kotlin)
 17 | [Splashscreen with runtime permissions](https://stackoverflow.com/questions/53276818/splashscreen-with-runtime-permissions)
+18 | [What is the simplest and most robust way to get the user's current location on Android?](https://stackoverflow.com/questions/3145089/what-is-the-simplest-and-most-robust-way-to-get-the-users-current-location-on-a)
 
 
 #### GitHub
