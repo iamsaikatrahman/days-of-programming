@@ -14,7 +14,7 @@ No | Articles
 2 | [Test Location Updates With Mock Locations (fake GPS data) in emulators and real devices](https://medium.com/@msaudi/android-test-location-services-and-gps-with-fake-gps-data-mock-locations-in-emulators-or-real-df211de4d891)
 3 | [Multiple samples showing the best practices in location APIs on Android.](https://github.com/android/location-samples)
 4 | [How to make a button display on a condition?](https://stackoverflow.com/questions/9994967/android-how-to-make-a-button-display-on-a-condition)
-5 | [How to check if Location Services are enabled?](https://stackoverflow.com/questions/10311834/how-to-check-if-location-services-are-enabled)
+5 | [How do I find out if the GPS of an Android device is enabled](https://stackoverflow.com/questions/843675/how-do-i-find-out-if-the-gps-of-an-android-device-is-enabled)
 6 | [Android studio isn't opening on Windows](https://stackoverflow.com/questions/16579334/android-studio-isnt-opening-on-windows)
 7 | [Android dynamically populate Drop Down List](https://stackoverflow.com/questions/7818252/android-dynamically-populate-drop-down-list)
 8 | [Cannot lower case button text in android studio](https://stackoverflow.com/questions/24880388/cannot-lower-case-button-text-in-android-studio)
