@@ -26,6 +26,7 @@ No | Articles
 14 | [How to get Spinner selected item value to string?](https://stackoverflow.com/questions/10331854/how-to-get-spinner-selected-item-value-to-string)
 15 | [recyclerView.setAdapter does not accept ArrayAdapter](https://stackoverflow.com/questions/38926071/recyclerview-setadapter-does-not-accept-arrayadapter)
 16 | [Android - How to achieve setOnClickListener in Kotlin?](https://stackoverflow.com/questions/44301301/android-how-to-achieve-setonclicklistener-in-kotlin)
+17 | [Splashscreen with runtime permissions](https://stackoverflow.com/questions/53276818/splashscreen-with-runtime-permissions)
 
 
 #### GitHub
