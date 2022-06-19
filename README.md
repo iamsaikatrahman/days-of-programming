@@ -28,6 +28,8 @@ No | Articles
 16 | [Android - How to achieve setOnClickListener in Kotlin?](https://stackoverflow.com/questions/44301301/android-how-to-achieve-setonclicklistener-in-kotlin)
 17 | [Splashscreen with runtime permissions](https://stackoverflow.com/questions/53276818/splashscreen-with-runtime-permissions)
 18 | [What is the simplest and most robust way to get the user's current location on Android?](https://stackoverflow.com/questions/3145089/what-is-the-simplest-and-most-robust-way-to-get-the-users-current-location-on-a)
+19 | [How to get string text from AutoCompleteTextView?](https://stackoverflow.com/questions/9854790/how-to-get-string-text-from-autocompletetextview)
+20 | [Passing volley response to listview using an ArrayAdapter](https://stackoverflow.com/questions/43691098/passing-volley-response-to-listview-using-an-arrayadapter)
 
 
 #### GitHub
