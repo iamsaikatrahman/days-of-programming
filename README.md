@@ -30,6 +30,7 @@ No | Articles
 18 | [What is the simplest and most robust way to get the user's current location on Android?](https://stackoverflow.com/questions/3145089/what-is-the-simplest-and-most-robust-way-to-get-the-users-current-location-on-a)
 19 | [How to get string text from AutoCompleteTextView?](https://stackoverflow.com/questions/9854790/how-to-get-string-text-from-autocompletetextview)
 20 | [Passing volley response to listview using an ArrayAdapter](https://stackoverflow.com/questions/43691098/passing-volley-response-to-listview-using-an-arrayadapter)
+21 | [How to fix ')',<column constraint>,<type name>or comma expected,got '1'](https://stackoverflow.com/questions/57761140/how-to-fix-column-constraint-type-nameor-comma-expected-got-1)
 
 
 #### GitHub
