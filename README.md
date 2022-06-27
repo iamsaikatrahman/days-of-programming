@@ -32,7 +32,7 @@ No | Articles
 20 | [Passing volley response to listview using an ArrayAdapter](https://stackoverflow.com/questions/43691098/passing-volley-response-to-listview-using-an-arrayadapter)
 21 | [How to fix ')',<column constraint>,<type name>or comma expected,got '1'](https://stackoverflow.com/questions/57761140/how-to-fix-column-constraint-type-nameor-comma-expected-got-1)
 22 | [How to send Authorization header in Android using Volley library?](https://stackoverflow.com/questions/44000212/how-to-send-authorization-header-in-android-using-volley-library)
-23 | ##[The latest posts from Android Professionals and Google Developer Experts](https://proandroiddev.com/)
+23 | [The latest posts from Android Professionals and Google Developer Experts](https://proandroiddev.com/)
 
 
 #### GitHub
