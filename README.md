@@ -33,6 +33,7 @@ No | Articles
 21 | [How to fix ')',<column constraint>,<type name>or comma expected,got '1'](https://stackoverflow.com/questions/57761140/how-to-fix-column-constraint-type-nameor-comma-expected-got-1)
 22 | [How to send Authorization header in Android using Volley library?](https://stackoverflow.com/questions/44000212/how-to-send-authorization-header-in-android-using-volley-library)
 23 | [The latest posts from Android Professionals and Google Developer Experts](https://proandroiddev.com/)
+24 | [Percentage width in a RelativeLayout](https://stackoverflow.com/questions/4961355/percentage-width-in-a-relativelayout)
 
 
 #### GitHub
