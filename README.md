@@ -34,6 +34,7 @@ No | Articles
 22 | [How to send Authorization header in Android using Volley library?](https://stackoverflow.com/questions/44000212/how-to-send-authorization-header-in-android-using-volley-library)
 23 | [The latest posts from Android Professionals and Google Developer Experts](https://proandroiddev.com/)
 24 | [Percentage width in a RelativeLayout](https://stackoverflow.com/questions/4961355/percentage-width-in-a-relativelayout)
+25 | [Android Projects – Beginner & Advanced Project Ideas](https://techvidvan.com/tutorials/android-project-ideas/)
 
 
 #### GitHub
