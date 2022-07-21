@@ -34,6 +34,7 @@ No | Articles
 23 | [The latest posts from Android Professionals and Google Developer Experts](https://proandroiddev.com/)
 24 | [Percentage width in a RelativeLayout](https://stackoverflow.com/questions/4961355/percentage-width-in-a-relativelayout)
 25 | [Android Projects – Beginner & Advanced Project Ideas](https://techvidvan.com/tutorials/android-project-ideas/)
+26 | [Android Projects Idea from CRIO.DO](https://www.crio.do/projects/category/android-projects/)
 
 
 #### Asp .NET
