@@ -41,6 +41,7 @@ No | Articles
 No | Articles
 --- | ---
 1 | [NuGet Packages offline issue](https://docs.microsoft.com/en-us/answers/questions/531547/nuget-packages-has-offline-only.html)
+2 | [JWT Authentication With Refresh Tokens In .NET 6.0](https://www.c-sharpcorner.com/article/jwt-authentication-with-refresh-tokens-in-net-6-0/)
 
 
 #### GitHub
